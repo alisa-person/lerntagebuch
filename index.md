@@ -1,7 +1,3 @@
----
-title: Lerntagebuch
----
+## Herzlich willkommen auf meinem Blog „Alisas Lerntagebuch“!
 
-## Willkommen zu meinem Lerntagebuch
-
-Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Digitales Handwerkszeug für Bibliothekar:innen**.
+Dieser Blog entsteht im Rahmen des Wahlkurses **„Digitales Handwerkszeug für Bibliothekar:innen“**, den ich an der HAW Hamburg belege.
