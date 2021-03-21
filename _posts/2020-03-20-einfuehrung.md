@@ -1,6 +1,6 @@
 ---
 title: "Einführungsartikel"
-date: 2020-03-20
+date: 2019-09-xx
 ---
 
-Ich erwarte von diesem Kurs ...
+Herzlich willkommen...
