@@ -4,4 +4,4 @@ title: ""
 
 ## Herzlich willkommen auf meinem Blog „Alisas Lerntagebuch“!
 
-Dieser Blog entsteht im Rahmen des Wahlkurses *„Digitales Handwerkszeug für Bibliothekar:innen“*, den ich an der HAW Hamburg bei Felix Lohmeier belege. ([Skript](https://github.com/felixlohmeier/digitales-handwerkszeug))
+Dieser Blog entsteht im Rahmen des Wahlkurses *„Digitales Handwerkszeug für Bibliothekar:innen“*, den ich an der [HAW Hamburg](https://www.haw-hamburg.de/hochschule/design-medien-und-information/departments/information/) bei [Felix Lohmeier](https://felixlohmeier.de/) belege. ([Skript](https://github.com/felixlohmeier/digitales-handwerkszeug))
