@@ -3,4 +3,4 @@ title: "Einführungsartikel"
 date: 2019-09-16
 ---
 
-Herzlich willkommen...
+Herzlich willkommen in meinem Blog.
