@@ -1,12 +1,11 @@
-title: Blog Bibliotheks- und Archivinformatik
-author: Felix
-email: felix.lohmeier@fhgr.ch
+title: Digitales Handwerkszeug für Bibliothekar:innen - Ein Lerntagebuch
+author: Alisa Person
 description: > # this means to ignore newlines until "baseurl:"
-  Vorlage für ein Lerntagebuch im Kurs Bibliotheks- und Archivinformatik FS2020
+  Lerntagebuch zum Wahlkurs "Digitales Handwerkszeug für Bibliothekar:innen" an der HAW Hamburg
 
 # social links
-twitter_username: felixlohmeier # DO NOT include the @ character, or else the build will fail!
-github_username:  felixlohmeier # DO NOT include the @ character, or else the build will fail!
+twitter_username: alisa_per # DO NOT include the @ character, or else the build will fail!
+github_username: alisa-person # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
