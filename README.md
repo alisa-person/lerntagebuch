@@ -4,4 +4,4 @@
 
 Dieser Blog entsteht im Rahmen des Wahlkurses *„Digitales Handwerkszeug für Bibliothekar:innen“*, den ich an der [HAW Hamburg](https://www.haw-hamburg.de/hochschule/design-medien-und-information/departments/information/) bei [Felix Lohmeier](https://felixlohmeier.de/) belege. ([Skript](https://github.com/felixlohmeier/digitales-handwerkszeug))
 
-- [Einführung](https://alisa-person.github.io/lerntagebuch/2019/09/16/einfuehrung.html)
+- [Einführung](./_posts/2019-09-16-einfuehrung.md)
