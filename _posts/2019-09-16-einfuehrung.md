@@ -3,7 +3,7 @@ title: "Einführung"
 date: 2019-09-16
 ---
 
-Als es an die Kurswahl für das Wintersemester 2019/20 ging und ich mir gespannt die Angebote aus dem Wahlbereich im Online-Vorlesungsverzeichnis meines Studiengangs Bibliotheks- und Informationsmanagement anschaute, fiel mir dieser Kurs auf und machte mich neugierig.
+Als es an die Kurswahl für das Wintersemester 2019/20 ging und ich mir gespannt die Angebote aus dem Wahlbereich im Online-Vorlesungsverzeichnis anschaute, fiel mir dieser Kurs auf und machte mich neugierig.
 
 Beim Lesen der Kursbeschreibung stellte ich fest, dass ich von einigen der beschriebenen Tools bereits gehört hatte (z. B. VirtualBox, Koha), jedoch noch keine Praxiserfahrung aufweisen konnte. Andere Tools waren komplett neu und unbekannt für mich (z. B. OpenRefine, VuFind, Solr).
 
