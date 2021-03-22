@@ -6,6 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 # social links
 twitter_username: alisa_per # DO NOT include the @ character, or else the build will fail!
 github_username: alisa-person # DO NOT include the @ character, or else the build will fail!
+orcid: 0000-0002-8718-2630
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
