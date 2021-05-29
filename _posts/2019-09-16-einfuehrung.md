@@ -9,7 +9,7 @@ Beim Lesen der Kursbeschreibung stellte ich fest, dass ich von einigen der besch
 
 So schien mir dieser Kurs eine gute Gelegenheit und Chance zu sein, einen Einblick in dieses digitale Handwerkszeug zu gewinnen, erste Erfahrungen mit den Tools zu sammeln und ein Grundlagenwissen aufzubauen.
 
-Da ich mich beruflich in Richtung der wissenschaftlichen Bibliotheken orientiere, gefällt mir auch der Aspekt, das erworbene Wissen, Techniken und Werkzeuge in Zukunft nutzen zu können, um effektiv mit Wissenschaftler:innen und IT-Kolleg:innen zusammenzuarbeiten.
+Da ich mich beruflich in Richtung der wissenschaftlichen Bibliotheken orientiere, gefällt mir auch der Aspekt, das erworbene Wissen, Techniken und Werkzeuge in Zukunft nutzen zu können, um effektiv mit Wissenschaftler\*innen und IT-Kolleg\*innen zusammenzuarbeiten.
 
 Folgendes ist also meine Motivation:
 -	Bibliotheksbezug
