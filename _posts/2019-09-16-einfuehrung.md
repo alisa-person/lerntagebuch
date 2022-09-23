@@ -18,6 +18,6 @@ Folgendes ist also meine Motivation:
 
 Auch dass der Kurs als Blockseminar angeboten wird, sprach mich an, da ich mir die Lernerfahrung dadurch intensiver vorstelle, dass die meisten Inhalte innerhalb einer Woche vermittelt und erarbeitet werden.
 
-Ich erhoffe mir von dem Kurs, einen guten Überblick über praktische Software und Tools zu erhalten, viel auszuprobieren und herauszufinden, was sich auch in Zukunft weiternutzen lässt und was ich vertiefen oder weiter ausbauen kann, um das Berufsleben und die Arbeit in einer Bibliothek einfacher und effizienter zu gestalten.
+Ich erhoffe mir von dem Kurs, einen guten Überblick über praktische Software und Tools zu erhalten. Zudem möchte ich viel ausprobieren und herausfinden, was sich auch in Zukunft weiternutzen lässt und was ich vertiefen oder weiter ausbauen kann, um das Berufsleben und die Arbeit in einer Bibliothek einfacher und effizienter zu gestalten.
 
 Los geht’s. Viel Spaß beim Lesen!
